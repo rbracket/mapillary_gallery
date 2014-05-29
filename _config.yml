@@ -2,7 +2,7 @@
 title: Mapillary.com Gallery 
 email: ksurey@gmail.com
 description: "mapillary.com gallery- examples, starting with a blog which embeds a view"
-baseurl: "/mappilary_gallery"
+baseurl: "/mapillary_gallery"
 url: "http://yourdomain.com"
 
 # Build settings
