@@ -12,3 +12,12 @@ permalink: pretty
 # General Jekyll Config
 highlighter: pygments
 exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
+
+# Github repositories
+github_user: rbracket
+github_repo_count: 0
+github_show_profile_link: true
+github_skip_forks: true
+url: http:/rbracket.github.io/mapillary_gallery
+repository: https://github.com/rbracket/mapillary_gallery
+
