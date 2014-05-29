@@ -8,3 +8,7 @@ url: "http://yourdomain.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# General Jekyll Config
+highlighter: pygments
+exclude: [".gitignore", "readme.md", "Gemfile", "Gemfile.lock"]
